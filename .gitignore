@@ -1,0 +1,17 @@
+# Configuration files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+env.bak/
+venv/
+
+# Environment files
+*.env
+
+# System files
+.DS_Store
